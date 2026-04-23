@@ -1,0 +1,7 @@
+product,price,quantity,discount
+A,100,3,10
+B,200,1,20
+C,150,3,
+D,300,2,15
+E,,5,
+F,250,1,10
